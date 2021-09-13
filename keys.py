@@ -1,9 +1,9 @@
 
-pub_key = "yemSpvDUIbs6J9arO9FtXqeszHuVIs2TRSXC1eg6lTsJsQDsKHcV2fRVAFLyot6z"
+pub_key = ""
 
-sec_key = "CKx1ZWpDUEmG91wB5QrMoWgm5JZQZCcUvBDAIo2W5PQrkLbCkWPPYam0Y8WRgQoT"
+sec_key = ""
 
 
 
-usr_mail = "stormdesert12@gmail.com"
-pass_wrd = "1937putin"
+usr_mail = ""
+pass_wrd = ""
